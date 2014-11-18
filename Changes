@@ -1,0 +1,21 @@
+Revision history for Catmandu-Solr
+0.0205  2014-11-17
+       - changed distribution name to Catmandu-Solr
+       - added Catmandu::Importer::Solr
+
+0.0204  2014-03-25
+       - fq can be an array ref
+       - optimized versions of count and total
+       - include spellcheck in hits
+
+0.0203  2013-09-04
+       - update dependencies
+
+0.0202  2013-09-02
+       - disable facets, spellcheck if not needed
+
+0.0201  2013-03-26
+       - import confess
+
+0.02    2012-12-03
+       - initial release
