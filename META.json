@@ -69,8 +69,9 @@
          "web" : "https://github.com/LibreCat/Catmandu-Solr"
       }
    },
-   "version" : "0.0205",
+   "version" : "0.0206",
    "x_contributors" : [
+      "Jakob Voss <voss@gbv.de>",
       "Nicolas Steenlant <nicolas.steenlant@ugent.be>",
       "njfranck <njfranck@ca20c521.ugent.be>"
    ]
