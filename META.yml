@@ -34,7 +34,7 @@ resources:
   bugtracker: https://github.com/LibreCat/Catmandu-Solr/issues
   homepage: https://github.com/LibreCat/Catmandu-Solr
   repository: https://github.com/LibreCat/Catmandu-Solr.git
-version: 0.0206
+version: 0.0207
 x_contributors:
   - 'Jakob Voss <voss@gbv.de>'
   - 'Nicolas Steenlant <nicolas.steenlant@ugent.be>'
